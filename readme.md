@@ -44,7 +44,8 @@ Training of Day-1 ends............
 
 # FAB LAB TRAINING - DAY-2 - 19/03/2019 #
 # Setting up PCs for uploading the changes in the Repository on Web #
-![cncmachine](shop-bot)
+![cncmachine](shopbot.jpg)
+
 
 
 

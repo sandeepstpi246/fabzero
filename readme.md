@@ -46,4 +46,6 @@ Training of Day-1 ends............
 # Setting up PCs for uploading the changes in the Repository on Web #
 
 
+![vinyl cutter](cnc1)
+
 

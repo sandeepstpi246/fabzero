@@ -90,27 +90,27 @@ Once the issue was resolve, the following command was used to upload the images
 
 ## CNC Machine
 
-![cncmachine](shopbot.jpg)
+![cncmachine](shopbot.jpg "CNC Machine")
 
 ## Band saw
-![Band saw](Band-Saw.jpg)
+![Band saw](Band-Saw.jpg "Band Saw")
 
 ## Scroll Saw
-![Scroll Saw](Scroll-Saw.jpg)
+![Scroll Saw](Scroll-Saw.jpg "Scroll Saw")
 
 ## Vinyl Cutter
-![Vinyl Cutter](Vinyl-cutter.jpg)
+![Vinyl Cutter](Vinyl-cutter.jpg "Vinyl Cutter")
 
 ## 3 D Printer
-![3D Printer](3D-Printer.jpg)
+![3D Printer](3D-Printer.jpg "3D Printer")
 
 ## Stereo Lithography Printer
-![Stereo Lithography Printer](stereo-lithography-printer.jpg)
+![Stereo Lithography Printer](stereo-lithography-printer.jpg "Stereo Lithography Printer")
 
 ## Laser Cutter & Cleaner
-![Laser Cutter & Cleaner](Laser-cutter.jpg)
+![Laser Cutter & Cleaner](Laser-cutter.jpg "Laser Cutter")
 
-![Cleaner](cleaner-laser-cutter.jpg)
+![Cleaner](cleaner-laser-cutter.jpg "Cleaner for Laser Cutter")
 
 ## Experiment-1 - 3-D Printing
 
@@ -118,14 +118,14 @@ Further, hands-on 3D Printers was done by a team of 10 members. The 3 D printer 
 
 ## PLA Roll
 
-![PLA Roll](PLA-roll.jpg)
+![PLA Roll](PLA-roll.jpg "PLA Roll")
 
 
 The rolling of the wire in the cartridge has to be done in such a way that there is proper tension in the roll. During the maintenance of the roll of the cartridge, the team was informed that, if any bend was found in the PLA, that portion might not provide a proper printing. The team during the maintenance of the PLA found a bend and that small portion of the bend was removed from the roll.
 
 ## Bend Piece of PLA Roll
 
-![PLA Roll](Bendedpiece-PLA-Roll.jpg)
+![PLA Roll](Bendedpiece-PLA-Roll.jpg "Bended Piece of PLA Roll")
 
  Further the roller was fitted into the cartridge. It is worth noting that, while fitting the roll in the cartridge any part of the roll should not be out of the cartridge. The cartridge was the inserted in the 3D printer. Further, a section were the collection of wasted PLA which the roller uses for self cleaning was demonstrated and the process to clean it was shown. The cartridge is attached with a chip which contains all the information about the cartridge like length of the roll, color and physical properties of the filament. The diameter of the filament in the cartridge was 1.75 mm.
 
@@ -133,7 +133,8 @@ The device was not ready to print. The team was asked to print anything which ca
 
 ## Fabricated PLA Roll Clip produce by 3D Printer
 
-![Fabricated PLA Roll Clip](Fabricated-clip.jpg)
+![Fabricated PLA Roll Clip](Fabricated-clip.jpg "Fabricated PLA Roll Clip")
+
 
 ## Experiment-2 - Vinyl Cutting
 

@@ -112,6 +112,6 @@ Once the issue was resolve, the following command was used to upload the images
 
 ![Cleaner](cleaner-laser-cutter.jpg)
 
-
+Further, hands-on 3D Printers was done by a team of 10 members. The 3 D printer used was 3D WOX (Sindho). During the practical, the basic operation of the 3D printer was demonstrated. On the touch scree panel 4 options were available like cartrige, print, settings and info. Initially the process of cleaning and maintenance to 3D printer was demonstrated. The cartrige used in 3 D printer is PLA (Poly Lactic Acid). While performing the maintanace of the 3D printer the PLA has to be removed from the printer which was done by the team. Further, the cartrige was removed. The cartrige contained a wire rolled 
 
 

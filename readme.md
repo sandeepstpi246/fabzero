@@ -47,12 +47,29 @@ The first day of the training concluded. Looking forward to hands-on experience 
 # FAB LAB TRAINING - DAY-2 - 19/03/2019
 
 
-Setting up PCs for uploading the changes in the Repository on Web
+The day started with setting up PCs for uploading the changes in the Repository on Web. The process changes done in the local PC through Visual Source Code (VSC) and its process for synchronization on web was discussed in the starting session. For performing editing and other functions several tools are available under extension tab. The basic extension installed was Code Spell Checker ver 1.6.10. Many other extensions are also available which can be installed as per requirement. 
 
-##Uploading of Images
+Further, the process of cloning was demonstrated in which the changes made in the VSC had to be backed-up in PC.
+
+The step-by-step process for synchronizing the local PC and web is as under:-
+
+(i) Any changes done or the text written in the VSC has to be saved by pressing CTRL+S.
+
+(ii) Further the changes saved could be seen in the lest side of the screen under source control. The symbol indicates the number of changes which are to be incorporated.
+
+(iii) Then the changes to be done has to be provided with commit on each occasion the changes are done.
+
+(iv) Further, the changes are to be tick marked which is available at SOURCE CONTROL:GIT
+
+(v) Then the changes done are to be pushed to the web using 3 dots available in the same section.
 
 
-##CNC Machine
+
+
+## Uploading of Images
+
+
+## CNC Machine
 
 ![cncmachine](shopbot.jpg)
 

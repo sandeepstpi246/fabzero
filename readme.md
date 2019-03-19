@@ -52,6 +52,7 @@ Uploading of Images
 ![cncmachine](shopbot.jpg)
 
 ## Band saw
+![Band saw](Band Saw.jpg)
 
 
 

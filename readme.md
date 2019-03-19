@@ -55,7 +55,8 @@ Uploading of Images
 ![Band saw](Band-Saw.jpg)
 
 ## Scroll Saw
-![Scroll Saw](Scroll-Saw)
+![Scroll Saw](Scroll-Saw.jpg)
+
 
 
 

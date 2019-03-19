@@ -131,7 +131,8 @@ The device was not ready to print. The team was asked to print anything which ca
 
 ## Fabricated PLA Roll Clip produce by 3D Printer
 
-[Fabricated PLA Roll Clip](Fabricated-clip.jpg)
+![Fabricated PLA Roll Clip](Fabricated-clip.jpg)
+
 
 
 

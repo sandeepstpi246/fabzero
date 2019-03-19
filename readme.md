@@ -112,6 +112,8 @@ Once the issue was resolve, the following command was used to upload the images
 
 ![Cleaner](cleaner-laser-cutter.jpg)
 
+## Experiment-1 - 3-D Printing
+
 Further, hands-on 3D Printers was done by a team of 10 members. The 3 D printer used was 3D WOX (Sindho). During the practical, the basic operation of the 3D printer was demonstrated. On the touch scree panel 4 options were available like cartridge, print, settings and info. Initially the process of cleaning and maintenance to 3D printer was demonstrated. The cartridge used in 3 D printer is PLA (Poly Lactic Acid). While performing the maintenance of the 3D printer the PLA has to be removed from the printer which was done by the team. The cartridge contained a wire of PLA rolled in it. 
 
 ## PLA Roll
@@ -132,6 +134,12 @@ The device was not ready to print. The team was asked to print anything which ca
 ## Fabricated PLA Roll Clip produce by 3D Printer
 
 ![Fabricated PLA Roll Clip](Fabricated-clip.jpg)
+
+## Experiment-2 - Vinyl Cutting
+
+Further, Vinyl Cutter was demonstrated to the set of participants. The raw material used in the Vinyl Cutter is the Vinyl Sheet. This equipment is used by companies working in the field of signage and logo designing. The vinyl roll has to be properly placed between the rollers installed in the cutter. Further, there are some vertical line according to which the vinyl roll can be set-up in the cutter. For fixing the roll, it has to be place in the white section were the tube is having a rough surface soo that the grip is good. The user should also keep in mind that the vinyl is fixed at a position were there is minimum loss of vinyl sheet. Through this process the user can minimize the wastage of the vinyl sheet.
+
+The Second Day of the FAB Lab training commenced...
 
 
 

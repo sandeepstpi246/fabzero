@@ -6,7 +6,7 @@ Further, Dr. Omkar Rai (Director General- STPI) motivated the participants from 
 Mr. Fransicso started the training session at 12 noon. The participants were informed about the objectives of the training and the basic knowledge of FAB Labs. The safety associated with FAB Lab along with the do's and dont's were also informed to the traines.
 Further, after lunch FAB Lab established at STPI Bhubaneswar was visited.
 All the equipments installed were demonstrated and working of the equipments were briefed.
-Methods for fabrication are either additive in nature of substractive in nature. Both kind of fabrication tools are installed in FAB Lab.
+Methods for fabrication are either additive in nature or substractive in nature. Both kind of fabrication tools are installed in FAB Lab.
 Equipments under substractive menthod of fabrication and their working are discussed below:-
 (i) CNC (Computer Numerical Control) MAchine- CNC is a machine which operates in 3 dimensions. The basic operation of CNC is to fabricated wodden material or any other soft material which can hold its shape during the process of fabrication. It contains a milling bit which as per the programming assigned provides the required shapes in all the three dimensions. The CNC installed at FAB Lab is of SHop bot make and its dimensions are 96 inches x 48 inches. CNC is attached with a dust collector which during the process of fabrication collects the dust emmitted from the material under fabrication.
 (ii) Band Saw- It is an equipment used for simple citting. The blades used in Band Saw are thick in size and are used for normal cutting of materials which can hold its shape during the process of fabrication.

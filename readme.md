@@ -63,6 +63,8 @@ Uploading of Images
 ## 3 D Printer
 ![3D Printer](3D-Printer.jpg)
 
+## Stereo Lithography Printer
+![Stereo Lithography Printer](stereo-lithography-printer.jpg)
 
 
 

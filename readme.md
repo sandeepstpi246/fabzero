@@ -29,6 +29,9 @@ Equipments under substractive method of fabrication and their working are discus
 Equipments under additive menthod of fabrication and their working are discussed below:-
 
 (i) 3-D Printers:- The make installed at FAB Lab is Sindoh. It is a basic 3-D printer which works on the principle of Fused Fillament       Deposition. It is a device which works on 3 axis and provides the required shape by the means of deposition of the material used for     printing.
+![Vinyl Cutter](img/cnc1)
+
+
 
 (ii) Stereo Lithography Printer- The raw material used in this printer is Liquid resin. Printing is done through laser as the plastic        used for fabrication solidifies when light is brought in contact at the required locations through programming.
 

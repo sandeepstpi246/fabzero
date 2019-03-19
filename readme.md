@@ -1,6 +1,6 @@
 # SANDEEP NAIR (STPI BHOPAL)
 ## INTRODUCTORY DAY-1 (DATE - 18.03.2019)
-# Mentors for the FAB LAB- Mr. Fransicso and Mr. Shibu #
+Mentors for the FAB LAB- Mr. Fransicso and Mr. Shibu 
 Introduction provided by Shri Manas Panda (Director- STPI Bhubaneswar)about newly set-up FAB LAB in Bhubaneswar at 11:00 am followed by brief of the training to be provided to the participants by Mr. Fransisco.
 
 Further, Dr. Omkar Rai (Director General- STPI) motivated the participants from STPI Centres across pan India to give the best during the training and be a brand ambassador for FAB Labs to be executed across the country in future.

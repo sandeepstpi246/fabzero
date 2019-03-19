@@ -70,7 +70,19 @@ The step-by-step process for synchronizing the local PC and web is as under:-
 
 (v) Then the changes done are to be pushed to the web using 3 dots available in the same section.
 
+While performing the above task a problem was encountered wherein VSC has given a error that ' please tell me who you are'. The error occurred since the email id and name of user has to be specified while synchronizing the local PC and web. VSC has also demonstrated the command which is used to be recognized which is ' git config --global user.email "email id of user" and gir config -- global username "name of user".
 
+Once the command is operated , git would recognize the user on web and an email for the same would be sent to the registered email id. 
+
+** Note:- The practice of adding precise commit while pushing the data has to be undertaken as it would help the user to recognize the changes made.
+
+Git user id and password is required for making changes on web which is a one time process. After saving and pushing the data as mentioned above the same can be reviewed over web under the individual repository. 
+
+Further, uploading the images in the repository and wed was explored. During the execution error was found due to non- syncing of local PC and web. The system prompted to pull from the web prior to operating the push command. To resolve the issue, the changes made in the VSC were corrected so that sync with web can be achieved and web and local repository was synced. Once the syncing process was done, the changes made were easily uploaded on web as well as on local machine.
+
+Once the issue was resolve, the following command was used to upload the images
+
+![text](image name)
 
 
 ## Uploading of Images
@@ -95,7 +107,7 @@ The step-by-step process for synchronizing the local PC and web is as under:-
 ## Stereo Lithography Printer
 ![Stereo Lithography Printer](stereo-lithography-printer.jpg)
 
-##Laser Cutter & Cleaner
+## Laser Cutter & Cleaner
 ![Laser Cutter & Cleaner](Laser-cutter.jpg)
 
 ![Cleaner](cleaner-laser-cutter.jpg)

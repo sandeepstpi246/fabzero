@@ -57,6 +57,8 @@ Uploading of Images
 ## Scroll Saw
 ![Scroll Saw](Scroll-Saw.jpg)
 
+## Vinyl Cutter
+![Vinyl Cutter](Vinyl-cutter.jpg)
 
 
 

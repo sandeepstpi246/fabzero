@@ -49,7 +49,14 @@ The first day of the training concluded. Looking forward to hands-on experience 
 
 The day started with setting up PCs for uploading the changes in the Repository on Web. The process changes done in the local PC through Visual Source Code (VSC) and its process for synchronization on web was discussed in the starting session. For performing editing and other functions several tools are available under extension tab. The basic extension installed was Code Spell Checker ver 1.6.10. Many other extensions are also available which can be installed as per requirement. 
 
-Further, the process of cloning was demonstrated in which the changes made in the VSC had to be backed-up in PC.
+Further, the process of cloning was demonstrated in which the changes made in the VSC had to be backed-up in PC. For creating a clone, following command was used in a new window of VSC:-
+
+CTRL + SHIFT + P
+
+A small browser would open where a symbol (>) would appear.
+In that window a command git:clone has to be operated. As soon as the command is operated a box would appear where repository URL is asked. The repository URL can be obtained from the individual git hub account under the tab 'Your repository'. After selecting the required repository, a green colored drop down with name mentioned as 'CLONE or DOWNLOAD would appear'. On clicking the drop-down we can obtain the URL of our repository. Copy the URL and paste in the the VSC where URL of repository was required.
+
+Further, the system would ask to select a folder where cloning has to be done. On selecting the folder, a small window would pop-up asking to open the repository. The cloning of the changes done in local PC is now complete and further step by step process for uploading the same to web has been mentioned below.
 
 The step-by-step process for synchronizing the local PC and web is as under:-
 
@@ -89,7 +96,8 @@ The step-by-step process for synchronizing the local PC and web is as under:-
 ![Stereo Lithography Printer](stereo-lithography-printer.jpg)
 
 ##Laser Cutter & Cleaner
-![Laser Cutter & Cleaner](Laser-cutter)
+![Laser Cutter & Cleaner](Laser-cutter.jpg)
+
 ![Cleaner](cleaner-laser-cutter.jpg)
 
 

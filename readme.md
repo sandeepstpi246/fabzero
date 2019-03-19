@@ -53,7 +53,6 @@ Uploading of Images
 
 ## Band saw
 
-![band saw](Band Saw.jpg)
 
 
 

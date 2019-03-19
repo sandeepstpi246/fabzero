@@ -42,8 +42,13 @@ Equipments under additive menthod of fabrication and their working are discussed
 Training of Day-1 ends............
 =======
 
-# FAB LAB TRAINING - DAY-2 - 19/03/2019 #
-# Setting up PCs for uploading the changes in the Repository on Web #
+FAB LAB TRAINING - DAY-2 - 19/03/2019 
+Setting up PCs for uploading the changes in the Repository on Web
+
+Uploading of Images
+
+CNC Machine
+
 ![cncmachine](shopbot.jpg)
 
 

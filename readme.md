@@ -139,7 +139,9 @@ The device was not ready to print. The team was asked to print anything which ca
 
 Further, Vinyl Cutter was demonstrated to the set of participants. The raw material used in the Vinyl Cutter is the Vinyl Sheet. This equipment is used by companies working in the field of signage and logo designing. The vinyl roll has to be properly placed between the rollers installed in the cutter. Further, there are some vertical line according to which the vinyl roll can be set-up in the cutter. For fixing the roll, it has to be place in the white section were the tube is having a rough surface soo that the grip is good. The user should also keep in mind that the vinyl is fixed at a position were there is minimum loss of vinyl sheet. Through this process the user can minimize the wastage of the vinyl sheet.
 
-The Second Day of the FAB Lab training commenced...
+** The Second Day of the FAB Lab training commenced **
+
+
 
 
 

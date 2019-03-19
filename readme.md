@@ -40,4 +40,10 @@ Equipments under additive menthod of fabrication and their working are discussed
 # The first day of the training concluded. Looking forward to hands-on experience on the equipments installed at FAB LAB- STPI Bhubaneswar on Day-2 (19.03.2019). #
 
 Training of Day-1 ends............
-![Vinyl Cutter](img/cnc1.jpg)
+=======
+
+# FAB LAB TRAINING - DAY-2 - 19/03/2019 #
+# Setting up PCs for uploading the changes in the Repository on Web #
+
+
+

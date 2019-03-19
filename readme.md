@@ -66,7 +66,9 @@ Uploading of Images
 ## Stereo Lithography Printer
 ![Stereo Lithography Printer](stereo-lithography-printer.jpg)
 
-
+##Laser Cutter & Cleaner
+![Laser Cutter & Cleaner](Laser-cutter)
+![Cleaner](cleaner-laser-cutter.jpg)
 
 
 

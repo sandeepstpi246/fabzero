@@ -29,7 +29,7 @@ Equipments under substractive method of fabrication and their working are discus
 Equipments under additive menthod of fabrication and their working are discussed below:-
 
 (i) 3-D Printers:- The make installed at FAB Lab is Sindoh. It is a basic 3-D printer which works on the principle of Fused Fillament       Deposition. It is a device which works on 3 axis and provides the required shape by the means of deposition of the material used for     printing.
-![Vinyl Cutter](img/cnc1)
+
 
 
 
@@ -40,3 +40,4 @@ Equipments under additive menthod of fabrication and their working are discussed
 # The first day of the training concluded. Looking forward to hands-on experience on the equipments installed at FAB LAB- STPI Bhubaneswar on Day-2 (19.03.2019). #
 
 Training of Day-1 ends............
+![Vinyl Cutter](img/cnc1.jpg)

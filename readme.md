@@ -37,15 +37,17 @@ Equipments under additive menthod of fabrication and their working are discussed
 
 (iii) Ink Jet Printer or Poly jet Printer:- It is a 2 axis machine which fabricates in 2 dimensions. 
 
-# The first day of the training concluded. Looking forward to hands-on experience on the equipments installed at FAB LAB- STPI Bhubaneswar on Day-2 (19.03.2019). #
+The first day of the training concluded. Looking forward to hands-on experience on the equipments installed at FAB LAB- STPI Bhubaneswar on Day-2 (19.03.2019). 
 
 Training of Day-1 ends............
 =======
 
-FAB LAB TRAINING - DAY-2 - 19/03/2019 
+#FAB LAB TRAINING - DAY-2 - 19/03/2019 #
+
 Setting up PCs for uploading the changes in the Repository on Web
 
-Uploading of Images
+##Uploading of Images
+
 
 ##CNC Machine
 

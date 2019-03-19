@@ -60,6 +60,9 @@ Uploading of Images
 ## Vinyl Cutter
 ![Vinyl Cutter](Vinyl-cutter.jpg)
 
+## 3 D Printer
+![3D Printer](3D-Printer.jpg)
+
 
 
 

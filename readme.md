@@ -47,10 +47,13 @@ Setting up PCs for uploading the changes in the Repository on Web
 
 Uploading of Images
 
-CNC Machine
+##CNC Machine
 
 ![cncmachine](shopbot.jpg)
 
+## Band saw
+
+![band saw](Band Saw.jpg)
 
 
 

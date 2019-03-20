@@ -38,7 +38,7 @@
 
 
 
-(vi) Laser Cutter:- It is a 3-axis equipmentThe laser used in FAB Lab Bhubhaneswar is CO2 compliant, 80 watts Laser Cutter. The material      which can be processed in laser cutter are relatively soft in nature like plastic sheets. The hard metals can be marked using            lasers but cannot be cut. The laser cutter is attched with a 3 way filter which filters the large particles in the first stage,          other minute particles in the second stage and gases in the third stage after which it can be difussed in the open air. This 3 way      filter is used as the Laser cutter installed in FAB Lab id working in a closed environment.
+(vi) 
 
 Equipments under additive menthod of fabrication and their working are discussed below:-
 

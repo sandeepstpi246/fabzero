@@ -1,8 +1,10 @@
-# SANDEEP NAIR (STPI BHOPAL)
-Working as MTSS-V in STPI Bhopal .......
- Picture ????????
+#Contents
+1. Self Introduction
 
- 
+2. Introductory day at FAB Lab, STPI Bhubaneswar
+
+
+
 ## INTRODUCTORY DAY-1 (DATE - 18.03.2019)
 *Mentors for the FAB LAB- Mr. Fransicso and Mr. Shibu.
 

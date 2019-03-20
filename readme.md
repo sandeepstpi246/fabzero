@@ -26,7 +26,9 @@
 [SCROLL SAW](scroll-saw.md)
 
 
+## (iv) Cleaner 
 
+[CLEANER]
 
 
 
@@ -37,7 +39,7 @@
 (ii) 
 
 (iii) 
-(iv) Apart from this, cleaning tools were also installed in FAB Lab which is used for cleaning the devices with high water pressure.
+(iv) 
 
 (v) Vinyl Cutter:- This equipments is used by various signage and logo making companies. Vinyl sheet is inserted into the cutter and as       per the programming it cuts the vinly sheet. The blade attached to the vinyl cutter is either operation or not in operation. There       is no intermediatery mode of working.
 

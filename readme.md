@@ -35,6 +35,11 @@
 
 [Vinyl Cutter](vinyl-cutter.md)
 
+## (vi) Laser Cutter
+
+[Laser- Cutter](laser-cutter.md)
+
+
 
 
 

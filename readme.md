@@ -1,6 +1,6 @@
 #Contents
 1. Self Introduction
-[Self Intruduction]()
+[Self Intruduction](selfintroduction.md)
 
 2. Introductory day at FAB Lab, STPI Bhubaneswar
 

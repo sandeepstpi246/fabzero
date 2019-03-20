@@ -1,4 +1,5 @@
 # **CONTENT**  
+
 # 1. Self Introduction
 
 [Self Intruduction](selfintroduction.md)
@@ -7,6 +8,12 @@
 
 [Introductory Day at FAB Lab in STPI Bhubaneshwar](intro-to-fab-lab.md)
 
+# 3. Equipments under Subtractive Method of Fabrication
+
+## (i) CNC (Computer Numerical Control) Machine
+
+[CNC](cnc.md)
+![CNC- Shop Bot](shopbot.jpg)
 
 
 

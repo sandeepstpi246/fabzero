@@ -27,12 +27,13 @@
 
 
 
+
+
  
 
 (ii) 
 
-(iii) Scroll Saw Cutter:- It is used for providing curved shapes to the materials under fabrication. The blade used is very thin in size       due to which it has the capability to provide the required shape to the materials.
-
+(iii) 
 (iv) Apart from this, cleaning tools were also installed in FAB Lab which is used for cleaning the devices with high water pressure.
 
 (v) Vinyl Cutter:- This equipments is used by various signage and logo making companies. Vinyl sheet is inserted into the cutter and as       per the programming it cuts the vinly sheet. The blade attached to the vinyl cutter is either operation or not in operation. There       is no intermediatery mode of working.

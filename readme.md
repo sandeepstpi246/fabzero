@@ -13,13 +13,14 @@
 ## (i) CNC (Computer Numerical Control) Machine
 
 [CNC](cnc.md)
-![CNC- Shop Bot](shopbot.jpg "CNC-Shop Bot)
+
 
 
 ## (ii) Band Saw
 
 [BAND SAW](band-saw.md)
-![Band Saw](bandsaw.jpg "Band Saw")
+
+
 
 
 

@@ -1,12 +1,12 @@
 # **CONTENT**  
 
-# 1. Self Introduction
+# [1. Self Introduction](selfintroduction.md)
 
-[Self Intruduction](selfintroduction.md)
 
-# 2. Introductory day at FAB Lab, STPI Bhubaneswar
 
-[Introductory Day at FAB Lab in STPI Bhubaneshwar](intro-to-fab-lab.md)
+# [2. Introductory day at FAB Lab, STPI Bhubaneswar](intro-to-fab-lab.md)
+
+
 
 # 3. Equipments under Subtractive Method of Fabrication
 

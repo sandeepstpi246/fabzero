@@ -7,7 +7,7 @@
 
 # [3. Introduction to FAB Lab, STPI Bhubaneswar](intro-to-fab-lab.md)
 
-# [4. Setting-up systems for hands-on in Fab Lab] (setting-up.md)
+# [4. Setting-up systems for hands-on in Fab Lab](setting-up.md)
 
 # 5. Equipments under Subtractive Method of Fabrication
 

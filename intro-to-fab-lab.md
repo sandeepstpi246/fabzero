@@ -2,25 +2,7 @@
 
 *Mentors for the FAB LAB- Mr. Fransicso
 
-## Francisco Sanchez Arroyo 
 
-![Francisco Sanchez Arroyo](img/fran.jpg)
-
-
-
-Having a Civil Engineering educational background with passion for tall buildings and structural engineering Francisco took the Fab Academy course in Fablab Barcelona. 
-
-## Sibu Saman
-
-![Sibu Saman](img/sibusaman.jpg)
-
-
-
-Had completed Integrated M.Sc in Physics from UM-DAE CBS with INSPIRE Scholarship, specialized in computational and experimental physics. Completed FabAcademy in 2016
-
-He is our mentor in Fablab STPI Bhubaneswar. He would be guiding us to obtain the objectives of the pre-academic training at Fablab STPI Bhubaneswar. 
-
- and Mr. Shibu.
 
 Introduction provided by Shri Manas Panda (Director- STPI Bhubaneswar)about newly set-up FAB LAB in Bhubaneswar at 11:00 am followed by brief of the training to be provided to the participants by Mr. Fransisco.
 

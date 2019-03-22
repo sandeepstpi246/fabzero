@@ -2,6 +2,7 @@
 
 # [1. Self Introduction](selfintroduction.md)
 
+# [2. Mentors at Fab Lab- STPI Bhubaneswar](mentor.md)
 
 
 # [2. Introductory day at FAB Lab, STPI Bhubaneswar](intro-to-fab-lab.md)

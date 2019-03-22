@@ -1,5 +1,5 @@
 
-# ** Mentors at Fab Lab-STPI Bhubaneswar
+# Mentors at Fab Lab-STPI Bhubaneswar
 
 ## Francisco Sanchez Arroyo 
 

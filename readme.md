@@ -42,17 +42,17 @@
 
 ## [(i) 3D Printer](3d-printer.md)
 
+## [(ii) Stereo Lithography Printer](stereolithographyprinter.md)
 
 
 
- and their working are discussed below:-
-
-(i) 
+ 
 
 
 
 
-(ii) Stereo Lithography Printer- The raw material used in this printer is Liquid resin. Printing is done through laser as the plastic        used for fabrication solidifies when light is brought in contact at the required locations through programming.
+
+(ii) 
 
 (iii) Ink Jet Printer or Poly jet Printer:- It is a 2 axis machine which fabricates in 2 dimensions. 
 

@@ -33,7 +33,7 @@ Further, each trainee was asked to produce a separate material using 3D printer 
 
 I had prepared a tweeser blade holder used to remove the vinyl pieces cut by vinyl cutter. The 3D image of the tweeser blade holder was obtained from https://thingiverse.com. Further, .spl file of the same was downloaded as for creating the 3D picture this image would be used in Sindoh software. The software is used for creating layer in the image to be printed. In the software, there is an option of viewing the layer by layer printing which would be done by the 3D printer. The green segment would show the area were no printing would be done. Based on the structure and orientation of the material to be produced certain areas has to be decided were the base should be given. 
 
-I had created the tweeser blade holder by giving a print command through my laptop connected wireless through printer. It took 1 hr and 30 minutes for the Sindoh 3D WOX printer to print my fabricated material.
+I had created the tweeser blade holder by giving a print command through my laptop connected wireless through printer. It took 1 hr and 10 minutes for the Sindoh 3D WOX printer to print my fabricated material.
 
 ![Tweeser Blade Holder](img/tweeserbladeholder.jpg "Fabricated Tweeser Blade Holder")
 

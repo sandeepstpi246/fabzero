@@ -107,15 +107,8 @@ Once the issue was resolve, the following command was used to upload the images
 ## Uploading of Images
 
 
-## CNC Machine
 
-![cncmachine](shopbot.jpg "CNC Machine")
 
-## Band saw
-![Band saw](Band-Saw.jpg "Band Saw")
-
-## Scroll Saw
-![Scroll Saw](Scroll-Saw.jpg "Scroll Saw")
 
 ## Vinyl Cutter
 ![Vinyl Cutter](Vinyl-cutter.jpg "Vinyl Cutter")

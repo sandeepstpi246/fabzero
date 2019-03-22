@@ -4,7 +4,7 @@
 
 ## Francisco Sanchez Arroyo 
 
-![Francisco Sanchez Arroyo](fran.jpg)
+![Francisco Sanchez Arroyo](img/fran.jpg)
 
 
 
@@ -12,7 +12,7 @@ Having a Civil Engineering educational background with passion for tall building
 
 ## Sibu Saman
 
-![Sibu Saman](sibusaman.jpg)
+![Sibu Saman](img/sibusaman.jpg)
 
 
 
@@ -51,7 +51,7 @@ The step-by-step process for synchronizing the local PC and web is as under:-
 
 (i) Any changes done or the text written in the VSC has to be saved by pressing CTRL+S.
 
-(ii) Further the changes saved could be seen in the lest side of the screen under source control. The symbol indicates the number of changes which are to be incorporated.
+(ii) Further the changes saved could be seen in the left side of the screen under source control. The symbol indicates the number of changes which are to be incorporated.
 
 (iii) Then the changes to be done has to be provided with commit on each occasion the changes are done.
 

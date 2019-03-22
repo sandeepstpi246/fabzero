@@ -5,7 +5,7 @@
 # [2. Mentors at Fab Lab- STPI Bhubaneswar](mentors.md)
 
 
-# [3. Introductory day at FAB Lab, STPI Bhubaneswar](intro-to-fab-lab.md)
+# [3. Introduction to FAB Lab, STPI Bhubaneswar](intro-to-fab-lab.md)
 
 
 

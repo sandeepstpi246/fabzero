@@ -7,7 +7,7 @@
 
 
 
-Having a Civil Engineering educational background with passion for tall buildings and structural engineering Francisco took the Fab Academy course in Fablab Barcelona. 
+Having a Civil Engineering educational background with passion for tall buildings and structural engineering, Francisco Sanchez took the Fab Academy course in Fablab Barcelona. He is presently setting-up Fab Lab at STPI Bhubaneswar.
 
 ## Sibu Saman
 
@@ -15,4 +15,4 @@ Having a Civil Engineering educational background with passion for tall building
 
 
 
-Had completed Integrated M.Sc in Physics from UM-DAE CBS with INSPIRE Scholarship, specialized in computational and experimental physics. Completed FabAcademy in 2016
+Had completed Integrated M.Sc in Physics from UM-DAE CBS with INSPIRE Scholarship, specialized in computational and experimental physics. Completed FabAcademy in 2016. He is working with Francisco for setting-up Fab Lab at STPI Bhubaneswar.

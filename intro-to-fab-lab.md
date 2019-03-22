@@ -4,14 +4,16 @@
 
 ## Francisco Sanchez Arroyo 
 
-![Francisco Sanchez Arroyo ](fran.jpg "Francisco Sanchez Arroyo")
+![Francisco Sanchez Arroyo](fran.jpg)
+
 
 
 Having a Civil Engineering educational background with passion for tall buildings and structural engineering Francisco took the Fab Academy course in Fablab Barcelona. 
 
 ## Sibu Saman
 
-![Sibu Saman](sibusaman.jpg "Sibu Saman")
+![Sibu Saman](sibusaman.jpg)
+
 
 
 Had completed Integrated M.Sc in Physics from UM-DAE CBS with INSPIRE Scholarship, specialized in computational and experimental physics. Completed FabAcademy in 2016

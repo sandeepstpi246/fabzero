@@ -25,8 +25,18 @@ The rolling of the wire in the cartridge has to be done in such a way that there
 
 The device was now ready to print. The team was asked to print anything which can be of useful nature. The team decide to produce a clip which can be able to hold the loose roll of PLA in the cartridge when it is not in use. The team found the image of the clip on the website https://thingiverse.com which was downloaded and further was sliced using Sindoh software. Proper orientation of the clip was selected and the item was processed to be printed on the 3D printer. The team performed the task and the first test product of FAB Lab, STPI Bhubaneswar was produced.
 
-## Fabricated PLA Roll Clip produce by 3D Printer
+ Fabricated PLA Roll Clip produce by 3D Printer
 
 ![Fabricated PLA Roll Clip](img/fabricated-clip.jpg "Fabricated PLA Roll Clip")
 
-Further, each trainee was asked to produce a separate material using 3D printer using all information provided during the fabrication. I had prepared a tweeser blade holder used to remove the vinyl pieces cut by vinyl cutter.
+Further, each trainee was asked to produce a separate material using 3D printer using all information provided during the fabrication. 
+
+I had prepared a tweeser blade holder used to remove the vinyl pieces cut by vinyl cutter. The 3D image of the tweeser blade holder was obtained from https://thingiverse.com. Further, .spl file of the same was downloaded as for creating the 3D picture this image would be used in Sindoh software. The software is used for creating layer in the image to be printed. In the software, there is an option of viewing the layer by layer printing which would be done by the 3D printer. The green segment would show the area were no printing would be done. Based on the structure and orientation of the material to be produced certain areas has to be decided were the base should be given. 
+
+I had created the tweeser blade holder by giving a print command through my laptop connected wireless through printer. It took 1 hr and 30 minutes for the Sindoh 3D WOX printer to print my fabricated material.
+
+![Tweeser Blade Holder](img/tweeserbladeholder.jpg "Fabricated Tweeser Blade Holder")
+
+The base prepared by the 3D printer during the fabrication of Tweeser Blade Holder is shown below.
+
+![Tweeser Blade Holder Base](img/tweeserbladebase.jpg "Base prepared 3D printer")

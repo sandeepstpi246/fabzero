@@ -1,4 +1,4 @@
-# SANDEEP NAIR (STPI BHOPAL)
+# SANDEEP NAIR (STPI BHOPAL under STPI Noida Directorate)
 
 Hello Everyone!!!!
 
@@ -26,5 +26,5 @@ I initially worked in MPSWAN (Madhya Pradesh State Wide Area Network) Project. S
 
  Further, we have initiated preliminary collaboration with the State Government of Madhya Pradesh for creation of Centre of Excellence (CoE) and Fab Lab in the State of Madhya Pradesh. Hopefully, we can materialize the upcoming projects in the near future.
 
- 
+
  Picture ????????

@@ -5,11 +5,11 @@
 # [2. Mentors at Fab Lab- STPI Bhubaneswar](mentor.md)
 
 
-# [2. Introductory day at FAB Lab, STPI Bhubaneswar](intro-to-fab-lab.md)
+# [3. Introductory day at FAB Lab, STPI Bhubaneswar](intro-to-fab-lab.md)
 
 
 
-# 3. Equipments under Subtractive Method of Fabrication
+# 4. Equipments under Subtractive Method of Fabrication
 
 ## [(i) CNC (Computer Numerical Control) Machine](cnc.md)
 
@@ -39,7 +39,7 @@
 ## [(vi) Laser Cutter](laser-cutter.md)
 
 
-## 4. Equipments under additive method of fabrication
+## 5. Equipments under additive method of fabrication
 
 ## [(i) 3D Printer](3d-printer.md)
 

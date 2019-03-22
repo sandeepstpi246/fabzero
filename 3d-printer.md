@@ -27,6 +27,6 @@ The device was now ready to print. The team was asked to print anything which ca
 
 ## Fabricated PLA Roll Clip produce by 3D Printer
 
-![Fabricated PLA Roll Clip](img/Fabricated-clip.jpg "Fabricated PLA Roll Clip")
+![Fabricated PLA Roll Clip](img/fabricated-clip.jpg "Fabricated PLA Roll Clip")
 
 Further, each trainee was asked to produce a separate material using 3D printer using all information provided during the fabrication. I had prepared a tweeser blade holder used to remove the vinyl pieces cut by vinyl cutter.

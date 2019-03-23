@@ -45,3 +45,8 @@ After the printer has completed the printing, the material is removed after cool
 
 During the experiment I had also explored that the print can be queued in the printer if the printer is busy in printing.
 
+Pictures clicked during the 3-D printing of my tweeser blade holder is attached below
+
+![Pictures during printing process of Tweeser Blade cutter in 3 D Printer](img/pic-3d-printing-process.jpg "Pictures during printing process of Tweeser Blade cutter in 3 D Printer")
+
+![Pictures during printing process of Tweeser Blade cutter in 3 D Printer](img/pic-3d-printing-process-2.jpg "Pictures during printing process of Tweeser Blade cutter in 3 D Printer")

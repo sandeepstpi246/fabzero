@@ -2,6 +2,8 @@
 
 Initially, the PCs were set-up for uploading the changes in the Repository on Web. The process by which changes done in the local PC through Visual Source Code (VSC) and its process for synchronization on web was discussed in the starting session. 
 
+Initially, each trainee downloaded Visual Studio Code (VSC)  and further an account on https://github.com/ (github.com) was created for each individual by providing details like email id and other credentials. Visual Source Code is required for the input through proper command which would be further hosted on each individual account created on github.com .
+
 For performing editing and other functions several tools are available under extension tab of Visual Source Code. The basic extension installed was Code Spell Checker ver 1.6.10. Many other extensions are also available which can be installed as per requirement. 
 
 Further, the process of cloning was demonstrated in which the changes made in the VSC had to be backed-up in PC. For creating a clone, following command was used in a new window of VSC:-

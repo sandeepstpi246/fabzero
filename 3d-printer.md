@@ -43,4 +43,5 @@ The base prepared by the 3D printer during the fabrication of Tweeser Blade Hold
 
 After the printer has completed the printing, the material is removed after cooling down with proper tool. Further, the base has to be cleaned before further use.
 
-During the experiment I had also explored that the print can be queued in the printer if the printer is busy in printing. 
+During the experiment I had also explored that the print can be queued in the printer if the printer is busy in printing.
+

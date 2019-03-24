@@ -50,3 +50,6 @@ The aim of the experiment was to design a personalized design to be printed in a
 
 ![Assigning Foot Prints to Schematic](img/kicad-8.jpg "Assigning Foot Prints to Schematic")
 
+(x) The next step is to generate 'Net List' and save it is the same folder prepared for the project.
+
+![Generate Net List](img/kicad-9.jpg "Generate Net List")

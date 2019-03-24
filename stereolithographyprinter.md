@@ -53,3 +53,7 @@ The aim of the experiment was to design a personalized design to be printed in a
 (x) The next step is to generate 'Net List' and save it is the same folder prepared for the project.
 
 ![Generate Net List](img/kicad-9.jpg "Generate Net List")
+
+(xi) Further, the design is forwarded to be processed for "layout design for Printed Circuit Board of the schematic designed.
+
+![Layout Design for Printed Circuit Board of the schematic designed](img/kicad-10.jpg "Layout Design for Printed Circuit Board of the schematic designed")

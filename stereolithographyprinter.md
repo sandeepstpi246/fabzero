@@ -57,3 +57,8 @@ The aim of the experiment was to design a personalized design to be printed in a
 (xi) Further, the design is forwarded to be processed for "layout design for Printed Circuit Board of the schematic designed.
 
 ![Layout Design for Printed Circuit Board of the schematic designed](img/kicad-10.jpg "Layout Design for Printed Circuit Board of the schematic designed")
+
+(xii) Further the schematic diagram has been imported to the PCB designing and my prototype was ready to be printed.
+
+![My personalized design for PCB printing](img/kicad-11.jpg "My personalized design for PCB printing")
+

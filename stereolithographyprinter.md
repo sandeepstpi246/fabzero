@@ -41,3 +41,12 @@ The aim of the experiment was to design a personalized design to be printed in a
 (vii) After thr prototype is designed it is a required to annotate schematic symbols using the following option.
 
 ![Annotate Schematic Symbols](img/kicad-6.jpg "Annotate Schematic Symbols")
+
+(viii) After Annotating the schematic, there is a symbol for 'performing electrical rule check' which confirms the proper electrical connections in the schematic.
+
+![Performing Electrical Rule Check](img/kicad-7.jpg "Performing Electrical Rule Check")
+
+(ix) The next set is to 'Assign Foot Prints' to the schematic made
+
+![Assigning Foot Prints to Schematic](img/kicad-8.jpg "Assigning Foot Prints to Schematic")
+

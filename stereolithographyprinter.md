@@ -65,3 +65,9 @@ The aim of the experiment was to design a personalized design to be printed in a
 (xiii) After finishing the design of the PCB, on the right side of the panel, there is an option of edge cut. Along with that, option of adding graphic line has to be selected so that the border of the PCB design can be created. The dimension of the border has to be 0.8 mm which is selected according to the milling bit. 
 
 ![Adding Borders to PCB Design](img/kicad-12.jpg "Adding Borders to PCB Design")
+
+(xiv) Once the boundary is created, this can be saved through file by plotting command. While selecting the same there would be some options to select out of which F.Cu and Edge.cuts has to be marked. The plot format has to be svg. Further, under the general options 'exclude pad from silk screen ' and 'negative plot' has to be ticked leaving all the other as unchecked.
+
+(xv) After the above step the plot can be save in .svg format in the folder were the designing of the PCB has been done. 
+
+(xvi) The image has to be exported in .png format at 2000 dpi for clear picture.

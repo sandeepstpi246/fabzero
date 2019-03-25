@@ -16,3 +16,4 @@ Having a Civil Engineering educational background with passion for tall building
 
 
 Had completed Integrated M.Sc in Physics from UM-DAE CBS with INSPIRE Scholarship, specialized in computational and experimental physics. Completed FabAcademy in 2016. He is working with Francisco for setting-up Fab Lab at STPI Bhubaneswar.
+

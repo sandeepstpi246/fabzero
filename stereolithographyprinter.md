@@ -62,3 +62,4 @@ The aim of the experiment was to design a personalized design to be printed in a
 
 ![My personalized design for PCB printing](img/kicad-11.jpg "My personalized design for PCB printing")
 
+ncv

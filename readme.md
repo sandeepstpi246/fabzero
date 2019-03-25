@@ -1,8 +1,8 @@
 # **CONTENT**  
 
-* [1. Self Introduction](selfintroduction.md)
+## [1. Self Introduction](selfintroduction.md)
 
-* [2. Mentors at Fab Lab- STPI Bhubaneswar](mentors.md)
+## [2. Mentors at Fab Lab- STPI Bhubaneswar](mentors.md)
 
 
 # [3. Introduction to FAB Lab, STPI Bhubaneswar](intro-to-fab-lab.md)

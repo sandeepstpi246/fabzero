@@ -1,37 +1,34 @@
 # Pre- Academic Training- Fab Lab- STPI Bhubaneswar
 
-## **CONTENT**  
+## CONTENT  
 
-## [1. Self Introduction](selfintroduction.md)
+1. [Self Introduction](selfintroduction.md)
+2. [Mentors at Fab Lab- STPI Bhubaneswar](mentors.md)
 
-## [2. Mentors at Fab Lab- STPI Bhubaneswar](mentors.md)
 
+3. [Introduction to FAB Lab, STPI Bhubaneswar](intro-to-fab-lab.md)
 
-## [3. Introduction to FAB Lab, STPI Bhubaneswar](intro-to-fab-lab.md)
+4. [Setting-up for hands-on in Fab Lab](setting-up.md)
 
-## [4. Setting-up for hands-on in Fab Lab](setting-up.md)
+5. Equipments under Subtractive Method of Fabrication
+    - [(i) CNC (Computer Numerical Control) Machine](cnc.md)
+    - [(ii) Band Saw](band-saw.md)
 
-## 5. Equipments under Subtractive Method of Fabrication
+    - [(iii) Scroll Saw](scroll-saw.md)
 
-## [(i) CNC (Computer Numerical Control) Machine](cnc.md)
+    - [(iv) Cleaner](cleaner.md)
 
-## [(ii) Band Saw](band-saw.md)
+    - [(v) Vinyl Cutter](vinyl-cutter.md)
 
-## [(iii) Scroll Saw](scroll-saw.md)
+    - [(vi) Laser Cutter](laser-cutter.md)
 
-## [(iv) Cleaner](cleaner.md)
+6. Equipments under additive method of fabrication
 
-## [(v) Vinyl Cutter](vinyl-cutter.md)
+    - [(i) 3D Printer](3d-printer.md)
 
-## [(vi) Laser Cutter](laser-cutter.md)
+    - [(ii) Stereo Lithography Printer](stereolithographyprinter.md)
 
-## 6. Equipments under additive method of fabrication
-
-## [(i) 3D Printer](3d-printer.md)
-
-## [(ii) Stereo Lithography Printer](stereolithographyprinter.md)
-
-## [(iii)Ink Jet Printer](inkjetprinter.md)
+    - [(iii)Ink Jet Printer](inkjetprinter.md)
 
 
  

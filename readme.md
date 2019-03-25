@@ -31,9 +31,6 @@
     - [(iii)Ink Jet Printer](inkjetprinter.md)
 
 
- 
-
-
 
 
 

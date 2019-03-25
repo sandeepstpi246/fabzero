@@ -1,15 +1,17 @@
-# **CONTENT**  
+# Pre- Academic Training- Fab Lab- STPI Bhubaneswar
+
+## **CONTENT**  
 
 ## [1. Self Introduction](selfintroduction.md)
 
 ## [2. Mentors at Fab Lab- STPI Bhubaneswar](mentors.md)
 
 
-# [3. Introduction to FAB Lab, STPI Bhubaneswar](intro-to-fab-lab.md)
+## [3. Introduction to FAB Lab, STPI Bhubaneswar](intro-to-fab-lab.md)
 
-# [4. Setting-up for hands-on in Fab Lab](setting-up.md)
+## [4. Setting-up for hands-on in Fab Lab](setting-up.md)
 
-# 5. Equipments under Subtractive Method of Fabrication
+## 5. Equipments under Subtractive Method of Fabrication
 
 ## [(i) CNC (Computer Numerical Control) Machine](cnc.md)
 

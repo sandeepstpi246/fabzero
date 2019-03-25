@@ -62,3 +62,6 @@ The aim of the experiment was to design a personalized design to be printed in a
 
 ![My personalized design for PCB printing](img/kicad-11.jpg "My personalized design for PCB printing")
 
+(xiii) After finishing the design of the PCB, on the right side of the panel, there is an option of edge cut. Along with that, option of adding graphic line has to be selected so that the border of the PCB design can be created. The dimension of the border has to be 0.8 mm which is selected according to the milling bit. 
+
+![Adding Borders to PCB Design](img/kicad-12.jpg "Adding Borders to PCB Design")

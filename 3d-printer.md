@@ -50,3 +50,4 @@ Pictures clicked during the 3-D printing of my tweeser blade holder is attached 
 ![Pictures during printing process of Tweeser Blade cutter in 3 D Printer](img/pic-3d-printing-process.jpg "Pictures during printing process of Tweeser Blade cutter in 3 D Printer")
 
 ![Pictures during printing process of Tweeser Blade cutter in 3 D Printer](img/pic-3d-printing-process-2.jpg "Pictures during printing process of Tweeser Blade cutter in 3 D Printer")
+

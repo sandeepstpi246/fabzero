@@ -66,8 +66,20 @@ The aim of the experiment was to design a personalized design to be printed in a
 
 ![Adding Borders to PCB Design](img/kicad-12.jpg "Adding Borders to PCB Design")
 
-(xiv) Once the boundary is created, this can be saved through file by plotting command. While selecting the same there would be some options to select out of which F.Cu and Edge.cuts has to be marked. The plot format has to be svg. Further, under the general options 'exclude pad from silk screen ' and 'negative plot' has to be ticked leaving all the other as unchecked.
+(xiv) Once the boundary is created, this can be saved through file by plotting command. While selecting the same there would be some options to select out of which F.Cu and Edge.cuts has to be marked. The plot format has to be saved in .svg format. Further, under the general options 'exclude pad from silk screen ' and 'negative plot' has to be ticked leaving all the other as unchecked.
 
-(xv) After the above step the plot can be save in .svg format in the folder were the designing of the PCB has been done. 
+(xv) After the above step the plot can be save in .svg format in the folder were the designing of the PCB has been done. Two .svg images would be saved on the location as mentioned by the user. For the ease of operations, it is recommended that the images may be save in the same folder were all the other operations of the designing part has been done.
 
-(xvi) The image has to be exported in .png format at 2000 dpi for clear picture.
+(xvi) The image has to be exported in .png format at 2000 dpi for clear picture. Further, for printing the image of circuit board the .png image has to be converted into .rml format.
+
+(xvii) For converting the image in .rml format, http://fabmodules.org/ is used. While browsing on the website initially the input format has to be selected. Which in our case would be the .png file converted for preparing the traces and cuts. On selecting the image, it would further ask for output which has to be selected as Rolland mill (.rml). Further it would ask for the process which is to be selected as PCB Traces (1/64).
+
+(xviii) Once the above process is complete, the specifications of the print has to be selected on the right side in the panel were input and out put has to be selected. For getting a clear print. the dpi has to be selected as 2000 dpi in the input. Under the same head, we can see the size of the image as well which is 31.293 x 28.753 mm (ie. approx. 3 x 3 cms)in our case.
+
+(xix) Further, the output of the machine has to be selected which is SRM-20 in our case with       4 mm/s speed, x0, y0 and z0 set at 0 and zjog set to 2 mm. Zjog is the maximum distance the milling bit will move from the frame in z direction.
+
+(xx) After completing the above set up, we have to calculate and save the same.
+
+(xxi) The process has to be done for both .png file of traces and cuts and has to be exported in .rml file prior to printing. 
+
+(xxii) While printing first the traces would be printed following with the cut after which the printed pcb cab be removed from the SLP.

@@ -86,4 +86,6 @@ The aim of the experiment was to design a personalized design to be printed in a
 
 (xxi) The process has to be done for both .png file of traces and cuts and has to be exported in .rml file prior to printing. 
 
+    *Note:- For the cut.png, the image, the has to be inverted while inserting values in input which is a very necessary process.
+
 (xxii) While printing first the traces would be printed following with the cut after which the printed pcb cab be removed from the SLP.

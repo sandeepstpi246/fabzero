@@ -72,6 +72,10 @@ The aim of the experiment was to design a personalized design to be printed in a
 
 (xvi) The image has to be exported in .png format at 2000 dpi for clear picture. Further, for printing the image of circuit board the .png image has to be converted into .rml format.
 
+*Note:- (i) The white portion in the png image would be kept and black portion would be removed.
+   
+        (ii)The general rule of milling in Stero Lithography Printer is that if the diameter of milling bit is 0.8 mm, the milling bit will go on till0.4 mm down in the Z-axis towards the plate in which the PCB board is printed. 
+
 (xvii) For converting the image in .rml format, http://fabmodules.org/ is used. While browsing on the website initially the input format has to be selected. Which in our case would be the .png file converted for preparing the traces and cuts. On selecting the image, it would further ask for output which has to be selected as Rolland mill (.rml). Further it would ask for the process which is to be selected as PCB Traces (1/64).
 
 (xviii) Once the above process is complete, the specifications of the print has to be selected on the right side in the panel were input and out put has to be selected. For getting a clear print. the dpi has to be selected as 2000 dpi in the input. Under the same head, we can see the size of the image as well which is 31.293 x 28.753 mm (ie. approx. 3 x 3 cms)in our case.

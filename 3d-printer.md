@@ -61,9 +61,27 @@ Pictures clicked during the 3-D printing of my tweeser blade holder is attached 
 
 ![Screw for which screw driver has to be made](img/freecad-1.jpg "Screw for which screw driver has to be made") 
 
-    On opening the FreeCad software on the selection menu we have to select switch between workbenches and select part as shown in the image below:-
+    On opening the FreeCad software on the selection menu we have to select switch between workbenches and select 'part' as shown in the image below:-
 
 ![Steps to work on FreeCad](img/freecad-2.jpg "Step-1 to work on Free Cad")
+
+    On selecting 'Part' the basic designs like solid cylinder, solid cone etc. can be seen as mentioned in the image below:-
+
+![Screen on selection of 'Part'](img/freecad-3.jpg)
+
+    Further, we can select any shape and can start working on our design. The few points while operating on FreeCad has to be kept in mind which are as under:-
+
+    (i) The screen of freecad has to be maximized while working and on the right bottom of the screen under settings which is in scroll down format "Gesture" has to be selected.
+
+    (ii) Further, the use of mouse while working is very important as the image has to be seen from all directions while working which is very difficult without mouse.
+
+    (iii) Prior to drawing of a 3D image in freecad, it is necessary that we analyse the object to be made and the process by which it would be made. To make it easy, it is a good practice to draw the required image on a piece of paper before working on freecad. 
+
+    (iv) Basic concepts of boolean algebra should be known so that we can design either by union, difference etc. which are the basic concepts of boolean algebra.
+
+    My design for making a triangular screw driver is shown below:-
+
+![My design for Triangular Screw Driver](img/freecad-4.jpg "My design of Triangular Screw Driver) 
 
 
 

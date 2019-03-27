@@ -8,4 +8,8 @@ CNC is a machine which operates in 3 dimensions. The basic operation of CNC is t
 
 ![CNC Machine](img/shopbot.jpg)
 
+Some of the basic points in CNC Machine:-
 
+(i) The sacrificial board used in the CNC is MDF Board
+
+The longest axis on the CNC were the sacrificial board 

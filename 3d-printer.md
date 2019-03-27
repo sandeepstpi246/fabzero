@@ -103,5 +103,20 @@ Pictures clicked during the 3-D printing of my tweeser blade holder is attached 
 
 ![Dialog box of Extrude the selected sketch](img/freecad-6.jpg "Dialog box of Extrude the selected sketch")
 
+    (vii) The required 3D image would be made is all the process are completed properly. The 3D design of my 'Triangular Screw Driver' can be seen in the image below:-
 
+![Image of my 3D Triangular Screw Drive made by FreeCad](img/freecad-7.jpg "Image of my 3D Triangular Screw Drive made by FreeCad")
 
+    (viii) The design was then exported to .stl format and then uploaded to 3DWOX (sindoh) for 3D printing. While uploading the image in the 3D printer, the G-code of the image was saved so that it can be used in future as well. Normal 3D printing was selected and it took almost 35 minutes for the 3 D printer to print my Triangular Screw Driver. The screw driver was tested on the Purex purifier to test whether it was working and it was found that the triangular screwdriver was working properly and it was able to open and close the triangular screw. 
+
+    Hence, my first useful contribution of the Fab Lab established at STPI Bhubaneswar was handed over to my mentors to be put to proper use in Fab Lab.
+
+    Some images of my 3D printed triangular screw driver can be seen below:-
+
+![ Image-1- My Triangular Screw Driver](img/freecad-8.jpg "Image-1- My Triangular Screw Driver")
+
+![ Image-2- My Triangular Screw Driver](img/freecad-9.jpg "Image-2- My Triangular Screw Driver")
+
+![ Image-3- My Triangular Screw Driver](img/freecad-10.jpg "Image-3- My Triangular Screw Driver")
+
+The experiment was successfully completed with the desired results.

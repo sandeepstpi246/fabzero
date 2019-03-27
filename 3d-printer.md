@@ -56,3 +56,9 @@ Pictures clicked during the 3-D printing of my tweeser blade holder is attached 
     -3D-Design:- To design the Triangular Screw Driver to be used for opening the screws in Purex, the software used was FreeCad. This software is used to design any 3D object which can be used for some specific purpose which in my case was the triangular screwdriver. 
 
     CSG (Contructive Solid Geometry) is used for creating 3D images. There are some basic structures for 3D Designing which are solid cube, solid sphere, solid cone, solid cylinder.
+
+    The screw for which the screw driver was to be used has shown below:-
+
+    ![Screw for which screw driver has to be made](img/freecad-1.jpg "Screw for which screw driver has to be made") 
+
+    On opening the FreeCad software on the selection menu

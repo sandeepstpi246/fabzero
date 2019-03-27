@@ -115,4 +115,6 @@ Some images of my 3D printed triangular screw driver can be seen below:-
 
 ![ Image-3- My Triangular Screw Driver](img/freecad-10.jpg "Image-3- My Triangular Screw Driver")
 
+Result:-
+
 The experiment was successfully completed with the desired results.

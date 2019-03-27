@@ -12,15 +12,18 @@
 
 5. Equipments under Subtractive Method of Fabrication
     - [(i) CNC (Computer Numerical Control) Machine](cnc.md)
-    - [(ii) Band Saw](band-saw.md)
 
-    - [(iii) Scroll Saw](scroll-saw.md)
+    - [(ii) Desktop Milling Machine](desktopmillingmachine.md)
 
-    - [(iv) Cleaner](cleaner.md)
+    - [(iii) Band Saw](band-saw.md)
 
-    - [(v) Vinyl Cutter](vinyl-cutter.md)
+    - [(iv) Scroll Saw](scroll-saw.md)
 
-    - [(vi) Laser Cutter](laser-cutter.md)
+    - [(v) Cleaner](cleaner.md)
+
+    - [(vi) Vinyl Cutter](vinyl-cutter.md)
+
+    - [(vii) Laser Cutter](laser-cutter.md)
 
 6. Equipments under additive method of fabrication
 

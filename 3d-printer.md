@@ -55,63 +55,59 @@ Pictures clicked during the 3-D printing of my tweeser blade holder is attached 
 
 3D-Design:- To design the Triangular Screw Driver to be used for opening the screws in Purex, the software used was FreeCad. This software is used to design any 3D object which can be used for some specific purpose which in my case was the triangular screwdriver. 
 
-    CSG (Contructive Solid Geometry) is used for creating 3D images. There are some basic structures for 3D Designing which are solid cube, solid sphere, solid cone, solid cylinder.
+CSG (Contructive Solid Geometry) is used for creating 3D images. There are some basic structures for 3D Designing which are solid cube, solid sphere, solid cone, solid cylinder.
 
-    The screw for which the screw driver was to be used has shown below:-
+The screw for which the screw driver was to be used has shown below:-
 
 ![Screw for which screw driver has to be made](img/freecad-1.jpg "Screw for which screw driver has to be made") 
 
-    On opening the FreeCad software on the selection menu we have to select switch between workbenches and select 'part' as shown in the image below:-
+On opening the FreeCad software on the selection menu we have to select switch between workbenches and select 'part' as shown in the image below:-
 
 ![Steps to work on FreeCad](img/freecad-2.jpg "Step-1 to work on Free Cad")
 
-    On selecting 'Part' the basic designs like solid cylinder, solid cone etc. can be seen as mentioned in the image below:-
+On selecting 'Part' the basic designs like solid cylinder, solid cone etc. can be seen as mentioned in the image below:-
 
 ![Screen on selection of 'Part'](img/freecad-3.jpg)
 
-    Further, we can select any shape and can start working on our design. The few points while operating on FreeCad has to be kept in mind which are as under:-
+Further, we can select any shape and can start working on our design. The few points while operating on FreeCad has to be kept in mind which are as under:-
 
-    (i) The screen of freecad has to be maximized while working and on the right bottom of the screen under settings which is in scroll down format "Gesture" has to be selected.
+(i) The screen of freecad has to be maximized while working and on the right bottom of the screen under settings which is in scroll down format "Gesture" has to be selected.
 
-    (ii) Further, the use of mouse while working is very important as the image has to be seen from all directions while working which is very difficult without mouse.
+(ii) Further, the use of mouse while working is very important as the image has to be seen from all directions while working which is very difficult without mouse.
 
-    (iii) Prior to drawing of a 3D image in freecad, it is necessary that we analyse the object to be made and the process by which it would be made. To make it easy, it is a good practice to draw the required image on a piece of paper before working on freecad. 
+(iii) Prior to drawing of a 3D image in freecad, it is necessary that we analyse the object to be made and the process by which it would be made. To make it easy, it is a good practice to draw the required image on a piece of paper before working on freecad. 
 
-    (iv) Basic concepts of boolean algebra should be known so that we can design either by union, difference etc. which are the basic concepts of boolean algebra.
+(iv) Basic concepts of boolean algebra should be known so that we can design either by union, difference etc. which are the basic concepts of boolean algebra.
 
-    My design for making a triangular screw driver is shown below:-
+For making the design, I had used a solid cube, a solid cylinder and a triangular shape to be cut from the cylinder so that the screw driver may be made.
 
-![My design for Triangular Screw Driver](img/freecad-4.jpg "My design for Triangular Screw Driver") 
+The step by step process by which I made my design is as under:-
 
-    For making the design, I had used a solid cube, a solid cylinder and a triangular shape to be cut from the cylinder so that the screw driver may be made.
+(i) Initially the dimensions of the 3 designs were taken which included the diameter of the circle which is 16.4 mm, the depth of the screw which is about 8 mm and the size of each side of the triangle which is 10 mm each.Circum radius of the triangle was required to be found which was done with the formula r= 2/3 of height. The sides of the triangle were known and we know that the angle of the equilateral triangle is 60 degree each and hence to find the circum radius we used the formula r= h/b ie. tan 60 degree = h/5. By this we were able to find the complete height and the 2/3 portion of the height provided the circum radius. Since the circum radius was taken according to the exact measurement of the triangle we had the provision to increase the size of circum radius as the diameter of the circle designed was perfect to be fitted along the depth. Since the circum radius which was calculated at 5.77 mm was increased to 6.30 mm so that the screw driver can easily hold the screw. The cube was used to provide support to the screw driver which has to be a little larger that the cylinder
 
-    The step by step process by which I made my design is as under:-
+(ii) I have used a cube of dimension 24mm x 22mm x 10mm (Length x width x height) along with a cylinder with dimensions Radius 8 mm, height 24 mm and angle 360 degree.
 
-    (i) Initially the dimensions of the 3 designs were taken which included the diameter of the circle which is 16.4 mm, the depth of the screw which is about 8 mm and the size of each side of the triangle which is 10 mm each.Circum radius of the triangle was required to be found which was done with the formula r= 2/3 of height. The sides of the triangle were known and we know that the angle of the equilateral triangle is 60 degree each and hence to find the circum radius we used the formula r= h/b ie. tan 60 degree = h/5. By this we were able to find the complete height and the 2/3 portion of the height provided the circum radius. Since the circum radius was taken according to the exact measurement of the triangle we had the provision to increase the size of circum radius as the diameter of the circle designed was perfect to be fitted along the depth. Since the circum radius which was calculated at 5.77 mm was increased to 6.30 mm so that the screw driver can easily hold the screw. The cube was used to provide support to the screw driver which has to be a little larger that the cylinder
+(iii) Further along the cylinder, I had cut an triangle with an circum radius to 6.30 mm.
 
-    (ii) I have used a cube of dimension 24mm x 22mm x 10mm (Length x width x height) along with a cylinder with dimensions Radius 8 mm, height 24 mm and angle 360 degree.
+(iv) I have fused the cubical base with the cylinder using boolean algebra and selecting the first shape as cube and second shape as cylinder. 
 
-    (iii) Further along the cylinder, I had cut an triangle with an circum radius to 6.30 mm.
-
-    (iv) I have fused the cubical base with the cylinder using boolean algebra and selecting the first shape as cube and second shape as cylinder. 
-
-    (v) Further , the triangular shape has to be extruded from the fusion by the selecting the 'Extrude the selected sketch' as shown in image below:-
+(v) Further , the triangular shape has to be extruded from the fusion by the selecting the 'Extrude the selected sketch' as shown in image below:-
 
 ![Extrude the selected sketch](img/freecad-5.jpg "Extrude the selected sketch") 
 
-    (vi)On selecting the 'Extrude the selected sketch' a dialog box would be opened in which proper dimensions has to be selected and the extrude has to be done 'along normal' and press apply and OK. The dialog box of 'Extrude the selected image' is shown in the image below:-
+(vi)On selecting the 'Extrude the selected sketch' a dialog box would be opened in which proper dimensions has to be selected and the extrude has to be done 'along normal' and press apply and OK. The dialog box of 'Extrude the selected image' is shown in the image below:-
 
 ![Dialog box of Extrude the selected sketch](img/freecad-6.jpg "Dialog box of Extrude the selected sketch")
 
-    (vii) The required 3D image would be made is all the process are completed properly. The 3D design of my 'Triangular Screw Driver' can be seen in the image below:-
+(vii) The required 3D image would be made is all the process are completed properly. The 3D design of my 'Triangular Screw Driver' can be seen in the image below:-
 
 ![Image of my 3D Triangular Screw Drive made by FreeCad](img/freecad-7.jpg "Image of my 3D Triangular Screw Drive made by FreeCad")
 
-    (viii) The design was then exported to .stl format and then uploaded to 3DWOX (sindoh) for 3D printing. While uploading the image in the 3D printer, the G-code of the image was saved so that it can be used in future as well. Normal 3D printing was selected and it took almost 35 minutes for the 3 D printer to print my Triangular Screw Driver. The screw driver was tested on the Purex purifier to test whether it was working and it was found that the triangular screwdriver was working properly and it was able to open and close the triangular screw. 
+(viii) The design was then exported to .stl format and then uploaded to 3DWOX (sindoh) for 3D printing. While uploading the image in the 3D printer, the G-code of the image was saved so that it can be used in future as well. Normal 3D printing was selected and it took almost 35 minutes for the 3 D printer to print my Triangular Screw Driver. The screw driver was tested on the Purex purifier to test whether it was working and it was found that the triangular screwdriver was working properly and it was able to open and close the triangular screw. 
 
-    Hence, my first useful contribution of the Fab Lab established at STPI Bhubaneswar was handed over to my mentors to be put to proper use in Fab Lab.
+Hence, my first useful contribution of the Fab Lab established at STPI Bhubaneswar was handed over to my mentors to be put to proper use in Fab Lab.
 
-    Some images of my 3D printed triangular screw driver can be seen below:-
+Some images of my 3D printed triangular screw driver can be seen below:-
 
 ![ Image-1- My Triangular Screw Driver](img/freecad-8.jpg "Image-1- My Triangular Screw Driver")
 

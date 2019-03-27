@@ -4,7 +4,7 @@
 
 The make installed at FAB Lab is Sindoh. It is a basic 3-D printer which works on the principle of Fused Filament Deposition. It is a device which works on 3 axis and provides the required shape by the means of deposition of the material used for printing.
 
-## Experiment- (Printing of Tweeser Blade Holder in 3D Printer)
+## Experiment-1- (Printing of Tweeser Blade Holder in 3D Printer)
 
 3-D Printing
 
@@ -51,3 +51,8 @@ Pictures clicked during the 3-D printing of my tweeser blade holder is attached 
 
 ![Pictures during printing process of Tweeser Blade cutter in 3 D Printer](img/pic-3d-printing-process-2.jpg "Pictures during printing process of Tweeser Blade cutter in 3 D Printer")
 
+## Experiment-2- (Designing and Printing of Triangular Screw Driver used of the screws in Purex)
+
+    -3D-Design:- To design the Triangular Screw Driver to be used for opening the screws in Purex, the software used was FreeCad. This software is used to design any 3D object which can be used for some specific purpose which in my case was the triangular screwdriver. 
+
+    CSG (Contructive Solid Geometry) is used for creating 3D images. There are some basic structures for 3D Designing which are solid cube, solid sphere, solid cone, solid cylinder.

@@ -59,6 +59,11 @@ Pictures clicked during the 3-D printing of my tweeser blade holder is attached 
 
     The screw for which the screw driver was to be used has shown below:-
 
-    ![Screw for which screw driver has to be made](img/freecad-1.jpg "Screw for which screw driver has to be made") 
+![Screw for which screw driver has to be made](img/freecad-1.jpg "Screw for which screw driver has to be made") 
 
-    On opening the FreeCad software on the selection menu
+    On opening the FreeCad software on the selection menu we have to select switch between workbenches and select part as shown in the image below:-
+
+![Steps to work on FreeCad](img/freecad-2.jpg "Step-1 to work on Free Cad")
+
+
+

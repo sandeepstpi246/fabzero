@@ -74,7 +74,7 @@ The aim of the experiment was to design a personalized design to be printed in a
 
 *Note:- (i) The white portion in the png image would be kept and black portion would be removed.
    
-        (ii)The general rule of milling in Stero Lithography Printer is that if the diameter of milling bit is 0.8 mm, the milling bit will go on till0.4 mm down in the Z-axis towards the plate in which the PCB board is printed. 
+(ii)The general rule of milling in Stero Lithography Printer is that if the diameter of milling bit is 0.8 mm, the milling bit will go on till0.4 mm down in the Z-axis towards the plate in which the PCB board is printed. 
 
 (xvii) For converting the image in .rml format, http://fabmodules.org/ is used. While browsing on the website initially the input format has to be selected. Which in our case would be the .png file converted for preparing the traces and cuts. On selecting the image, it would further ask for output which has to be selected as Rolland mill (.rml). Further it would ask for the process which is to be selected as PCB Traces (1/64).
 

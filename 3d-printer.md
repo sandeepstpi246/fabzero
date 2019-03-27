@@ -81,7 +81,27 @@ Pictures clicked during the 3-D printing of my tweeser blade holder is attached 
 
     My design for making a triangular screw driver is shown below:-
 
-![My design for Triangular Screw Driver](img/freecad-4.jpg "My design of Triangular Screw Driver) 
+![My design for Triangular Screw Driver](img/freecad-4.jpg "My design for Triangular Screw Driver") 
+
+    For making the design, I had used a solid cube, a solid cylinder and a triangular shape to be cut from the cylinder so that the screw driver may be made.
+
+    The step by step process by which I made my design is as under:-
+
+    (i) Initially the dimensions of the 3 designs were taken which included the diameter of the circle which is 16.4 mm, the depth of the screw which is about 8 mm and the size of each side of the triangle which is 10 mm each.Circum radius of the triangle was required to be found which was done with the formula r= 2/3 of height. The sides of the triangle were known and we know that the angle of the equilateral triangle is 60 degree each and hence to find the circum radius we used the formula r= h/b ie. tan 60 degree = h/5. By this we were able to find the complete height and the 2/3 portion of the height provided the circum radius. Since the circum radius was taken according to the exact measurement of the triangle we had the provision to increase the size of circum radius as the diameter of the circle designed was perfect to be fitted along the depth. Since the circum radius which was calculated at 5.77 mm was increased to 6.30 mm so that the screw driver can easily hold the screw. The cube was used to provide support to the screw driver which has to be a little larger that the cylinder
+
+    (ii) I have used a cube of dimension 24mm x 22mm x 10mm (Length x width x height) along with a cylinder with dimensions Radius 8 mm, height 24 mm and angle 360 degree.
+
+    (iii) Further along the cylinder, I had cut an triangle with an circum radius to 6.30 mm.
+
+    (iv) I have fused the cubical base with the cylinder using boolean algebra and selecting the first shape as cube and second shape as cylinder. 
+
+    (v) Further , the triangular shape has to be extruded from the fusion by the selecting the 'Extrude the selected sketch' as shown in image below:-
+
+![Extrude the selected sketch](img/freecad-5.jpg "Extrude the selected sketch") 
+
+    (vi)On selecting the 'Extrude the selected sketch' a dialog box would be opened in which proper dimensions has to be selected and the extrude has to be done 'along normal' and press apply and OK. The dialog box of 'Extrude the selected image' is shown in the image below:-
+
+![Dialog box of Extrude the selected sketch](img/freecad-6.jpg "Dialog box of Extrude the selected sketch")
 
 
 

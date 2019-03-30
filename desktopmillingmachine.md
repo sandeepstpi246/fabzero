@@ -73,7 +73,9 @@ The aim of the experiment was to design a personalized design to be printed in a
 
 (xvii) For converting the image in .rml format, http://fabmodules.org/ is used. While browsing on the website initially the input format has to be selected. Which in our case would be the .png file converted for preparing the traces and cuts. On selecting the image, it would further ask for output which has to be selected as Rolland mill (.rml). Further it would ask for the process which is to be selected as PCB Traces (1/64) for tracing and PCB Outline (1/32) for cut.
 
-(xviii) Once the above process is complete, the specifications of the print has to be selected on the right side in the panel were input and out put has to be selected. For getting a clear print. the dpi has to be selected as 2000 dpi in the input. Under the same head, we can see the size of the image as well which is 31.293 x 28.753 mm (ie. approx. 3 x 3 cms)in our case.
+(xviii) Once the above process is complete, the specifications of the print has to be selected on the right side in the panel were input and out put has to be selected. For getting a clear print. the dpi has to be selected as 2000 dpi in the input. Under the same head, we can see the size of the image as well which is 41.38 x 38.84 mm in our case.
+
+![Selection of output for .rml file](img/kicad-13.jpg "Selection of output for .rml file")
 
 (xix) Further, the output of the machine has to be selected which is SRM-20 in our case with       4 mm/s speed, x0, y0 and z0 set at 0 and zjog set to 2 mm. Zjog is the maximum distance the milling bit will move from the frame in z direction.
 
@@ -84,3 +86,25 @@ The aim of the experiment was to design a personalized design to be printed in a
 *Note:- For the cut.png, the image, the has to be inverted while inserting values in input which is a very necessary process.
 
 (xxii) While printing first the traces would be printed following with the cut after which the printed pcb can be removed from the mono cnc or desktop milling machine.
+
+(xxiii) For printing the PCB in mono CNC v panel of SRM-20 has to be opened and X-axis, Y-axis and Z-axis has to be set-up.  For setting-up the origin the machine has to be moved in X and Y axis this can be done by selecting the speed as continuos mode, x100 speed, x10 speed or x1 speed. X and Y axis can be moved in continuos mode but the Z axis has to be moved very carefully as this could damage the milling bit. The speed for moving the milling bit should not be selected in continuos mode. It should be    x 100 speed or more preferably x 10 speed to protect the milling bit from breaking.
+
+(xxiv)
+
+## Error experienced while printing the PCB on the mono CNC-
+
+While printing my the PCB, some traces were missed. The picture PCB with the error may be seen in the image below:-
+
+![Error in the printed PCB](img/errorpcbprint.jpg "Error in the printed PCB")
+
+It can be seen in the image that, some traces are missed. It can be compared by .png image or kicad design of the PCB in above images.
+
+This error occurred since the milling bit cannot process the traces as the space  the two traces was too less. It occurred due to the issue in design in which may be the size of the milling bit selected was not correct. To correct the error, we can select the size of the milling bit 0.02 mm less while selecting the bit size during conversion of .png file in .rml by  http://fabmodules.org/. On the right side of the panel there is an option of selecting the tool diameter which can be feeded 0.02 mm less. This option should not be practiced regularly and the error should be corrected in the kicad while designing PCB.
+
+![Selecting the tool diameter](img/errorpcbprint-1.jpg "Selecting the tool diameter") 
+
+I had corrected the tool diameter and again printed the PCB which was then printed correctly.
+
+##Soldering of components in the designed PCB-
+
+

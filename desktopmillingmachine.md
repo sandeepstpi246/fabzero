@@ -91,6 +91,7 @@ The aim of the experiment was to design a personalized design to be printed in a
 
 (xxiv)
 
+
 ## Error experienced while printing the PCB on the mono CNC-
 
 While printing my the PCB, some traces were missed. The picture PCB with the error may be seen in the image below:-

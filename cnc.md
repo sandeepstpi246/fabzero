@@ -18,5 +18,3 @@ CNC is a machine which operates in 3 dimensions. The basic operation of CNC is t
 
 ![CNC Machine](img/shopbot.jpg)
 
-
-

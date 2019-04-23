@@ -13,3 +13,4 @@ Some of the basic points in CNC Machine:-
 (i) The sacrificial board used in the CNC is MDF Board
 
 The longest axis on the CNC were the sacrificial board 
+dfghdfghzxd

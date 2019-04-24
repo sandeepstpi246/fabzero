@@ -18,20 +18,27 @@ CNC is a machine which operates in 3 dimensions. The basic operation of CNC is t
 
 Although, CNC machine is a high utility machine and has capabilities to perform the task at a very high speed with precision, these are certain safety factor associated to use a CNC machine which has to be kept in mind while performing operations. The safety measure for working on a CNC machine are highlighted below:-
 
-    (i) Always use safety glasses and sound minimizing headphone while working on a CNC machine.
+(i) Always use safety glasses and sound minimizing headphone while working on a CNC machine.
 
-    (ii) User should never wear looses clothing while working on 
-         a CNC machine.
+(ii) User should never wear looses clothing while working on a CNC machine.
 
-    (iii) If the user is having long hair, it should be properly        covered prior to executing any work in a CNC machine.
+(iii) If the user is having long hair, it should be properly covered prior to executing any work in a CNC machine.
 
-    (iv) The speed of the CNC machine is very fast. Hence the user should maintain proper distance from the CNC machine while it is in operation.
+(iv) The speed of the CNC machine is very fast. Hence the user should maintain proper distance from the CNC machine while it is in operation.
 
-    (v) The emergency stop of the CNC machine should be always in hand of the user while performing a job on the CNC machine. In case of any mis-happening emergency stop should be pushed without wasting any time.
+(v) The emergency stop of the CNC machine should be always in hand of the user while performing a job on the CNC machine. In case of any mis-happening emergency stop should be pushed without wasting any time.
 
-    (vi) While performing any operation at least two persons should be around CNC machine since the noise of the CNC machine is very high and in event of any mis happening the presence of two members would be an added support. Further, all the members working on the CNC machine should develop some sign language as the noise of the CNC machine is so high during operation that voice could not be heard.
+(vi) While performing any operation at least two persons should be around CNC machine since the noise of the CNC machine is very high and in event of any mis happening the presence of two members would be an added support. Further, all the members working on the CNC machine should develop some sign language as the noise of the CNC machine is so high during operation that voice could not be heard.
 
-    (vii) The area around the CNC machine should be 
+(vii) The area around the CNC machine till the point where the milling bit or spindle moves should be marked with bright colour like red and be cautioned with danger sign so that on one steps beyond the markings.
+
+(viii) The area in which the CNC machine is installed should have ample space where the user can move around the CNC machine keeping proper distance.
+
+(ix) The designs which are to be fabricated should be properly checked before performing operations for any wrong inputs.
+
+(x) The dust collector attached to the CNC machine should be cleaned regularly.
+
+The CNC machine installed at FABLAB Bhubaneswar is of Shopbot make.
 
 ![CNC Machine](img/shopbot.jpg)
 

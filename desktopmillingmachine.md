@@ -123,6 +123,6 @@ This error occurred since the milling bit cannot process the traces as the space
 
 I had corrected the tool diameter and again printed the PCB which was then printed correctly.
 
-##Soldering of components in the designed PCB-
+Further all the active and passive components as per the design was soldered and the PCB was check to be found in working condition.
 
 

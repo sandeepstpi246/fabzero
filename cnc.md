@@ -14,7 +14,24 @@ Working of a CNC:-
 
 The motion of CNC is controlled along 3 axes. The CNC machine moves back and forth as well as sideways in X and Y axis respectively and a tool spindle that moves in the Z (depth) axis. A milling bit is attached to the spindle which rotates at a high speed and through its motion in Z axis provide the required shape to the material. The fabrication is done through the design which is converted into a machine language with specific input instructions through computer. Through the designs the origin point of the fabrication process is set-up and the machine is instructed to perform the fabrication operation as per the design.
 
-CNC is a machine which operates in 3 dimensions. The basic operation of CNC is to fabricated wooden material or any other soft material which can hold its shape during the process of fabrication. It contains a milling bit which as per the programming assigned provides the required shapes in all the three dimensions. The CNC installed at FAB Lab is of Shop bot make and its dimensions are 96 inches x 48 inches. CNC is attached with a dust collector which during the process of fabrication collects the dust emitted from the material under fabrication.
+CNC is a machine which operates in 3 dimensions. The basic operation of CNC is to fabricated wooden material or any other soft material which can hold its shape during the process of fabrication. It contains a milling bit which as per the programming assigned provides the required shapes in all the three dimensions. The CNC installed at FAB Lab is of Shop bot make and its dimensions are 96 inches x 48 inches. CNC is attached with a dust collector which during the process of fabrication collects the dust emitted from the material under fabrication. The material to be used for fabrication must be selected wisely so that it does not produce a lot of dust which otherwise would be a difficult condition to work on a CNC Machine.
+
+Although, CNC machine is a high utility machine and has capabilities to perform the task at a very high speed with precision, these are certain safety factor associated to use a CNC machine which has to be kept in mind while performing operations. The safety measure for working on a CNC machine are highlighted below:-
+
+    (i) Always use safety glasses and sound minimizing headphone while working on a CNC machine.
+
+    (ii) User should never wear looses clothing while working on 
+         a CNC machine.
+
+    (iii) If the user is having long hair, it should be properly        covered prior to executing any work in a CNC machine.
+
+    (iv) The speed of the CNC machine is very fast. Hence the user should maintain proper distance from the CNC machine while it is in operation.
+
+    (v) The emergency stop of the CNC machine should be always in hand of the user while performing a job on the CNC machine. In case of any mis-happening emergency stop should be pushed without wasting any time.
+
+    (vi) While performing any operation at least two persons should be around CNC machine since the noise of the CNC machine is very high and in event of any mis happening the presence of two members would be an added support. Further, all the members working on the CNC machine should develop some sign language as the noise of the CNC machine is so high during operation that voice could not be heard.
+
+    (vii) The area around the CNC machine should be 
 
 ![CNC Machine](img/shopbot.jpg)
 

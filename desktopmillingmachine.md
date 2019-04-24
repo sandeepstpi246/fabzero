@@ -1,9 +1,12 @@
 ## Desktop Milling Machine (SRM-20)
 
-It is also called Mono CNC or Prototype Printer.
+The technique of printing a prototype through Desktop Milling Machine is also known a Rapid Prototyping. Rapid prototyping is a group of techniques used to quickly fabricate a scale model of a physical part or assembly using three-dimensional computer aided design data. 
 
+It is also called Mono CNC or Prototype Printer. 
 
-## Experiment- Designing prototypes and printing in Desktop Milling Machine SRM-20.
+To understand the proper work of Desktop Milling Machine, following task was executed:-
+
+## Task- Designing prototypes and printing in Desktop Milling Machine SRM-20.
 
 The aim of the experiment was to design a personalized design to be printed in a mono CNC. The software used for designing the prototype for the experiment was Kicad. It is a software which assists in making the desired designs. For designing kicad is used in following steps:-
 
@@ -87,9 +90,23 @@ The aim of the experiment was to design a personalized design to be printed in a
 
 (xxii) While printing first the traces would be printed following with the cut after which the printed pcb can be removed from the mono cnc or desktop milling machine.
 
-(xxiii) For printing the PCB in mono CNC v panel of SRM-20 has to be opened and X-axis, Y-axis and Z-axis has to be set-up.  For setting-up the origin the machine has to be moved in X and Y axis this can be done by selecting the speed as continuos mode, x100 speed, x10 speed or x1 speed. X and Y axis can be moved in continuos mode but the Z axis has to be moved very carefully as this could damage the milling bit. The speed for moving the milling bit should not be selected in continuos mode. It should be    x 100 speed or more preferably x 10 speed to protect the milling bit from breaking.
+(xxiii) For printing the PCB in mono CNC v panel of SRM-20 has to be opened and X-axis, Y-axis and Z-axis has to be set-up.  For setting-up the origin the machine has to be moved in X and Y axis this can be done by selecting the speed as continuos mode, x100 speed, x10 speed or x1 speed. X and Y axis can be moved in continuos mode but the Z axis has to be moved very carefully as this could damage the milling bit. The speed for moving the milling bit should not be selected in continuos mode. It should be    x 100 speed or more preferably x 10 speed to protect the milling bit from breaking. 
 
-(xxiv)
+
+
+(xxiv) The user coordinate on the left hand side of the panel has to be set to 0 by setting origin on the right side of the v panel dashboard by clicking set origin point (user Cordinates). First X/Y should be set and then Z.
+
+(xxv) After setting-up the origin the milling bit which is moving in the Z-axis has to be moved 2 mm in upside direction. The set-up would be complete. The setting of v panel of SRM 20 is shown in the image below:-
+
+![SRM V Panel](img/srmvpanel.jpeg)
+
+(xxv) Further, there is an option of machine coordinates in the left side drop down list which has to be noted after setting the user coordinates to origin. This is because if during the process of milling PCB, the user coordinates are missed, the machine can be brought back to the origin by using Machine coordinates which were recorded while setting the user coordinates to the origin.
+
+(xxvi) Further, the trace bit is set in the milling machine which is /64. This would cut the traces of the PCB design.
+
+(xxvii) Next step is to load the trace file through V-panel of SRM-20 and further click the output button on the SRM-20 v-panel. The milling bit would start cutting  the traces of the PCB design.
+
+(xxviii) Once the traces are done, the milling bit is to be replaced with /32 milling bit which is used to cut the PCB. After changing the bit, the milling bit has to be moved again to the origin set earlier and further load the cut file on the SRM-20 V-Panel and click out put. The milling bit would start to cut the PCB. After the cut process is complete the PCB can be removed from the sacrificial board. 
 
 
 ## Error experienced while printing the PCB on the mono CNC-

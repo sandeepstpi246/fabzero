@@ -8,12 +8,11 @@ There are two processes by which fabrication is done through Laser cutters:-
 
 These two operations are performed by the laser cutter. It the design has been specified with 0.1 mm thick line, the laser cutter will cut the portions and if the design has been specified with line thicker than 0.1 mm, it will engrave the portion.
 
-# Process:-
+## Process:-
 
-Generation of the laser beam involves stimulating a lasing material by electrical discharges or lamps within a closed container. As the lasing material is stimulated, the beam is reflected internally by means of a partial mirror, until it achieves sufficient energy to escape as a stream of monochromatic coherent light. Mirrors or fiber optics are typically used to direct the coherent light to a lens, which focuses the light at the wor
-k zone. The laser is then imposed which burns away a portion of material when it cuts through. This is known as the laser kerf and ranges from 0.08mm – 1mm depending on the material type and other conditional factors.If the laser is placed too close or too far the focus would not be correct and hence the cut or engraving would not be proper.The power and speed of a laser cutter can be controlled in percentage. For example in the process of cutting 3 mm vinyl, 60% power and 20% speed can be used. Any material which is natural and not man made can be cut or engraved through a laser cutter. The cut and engrave process can be selected by colours as well.
+Generation of the laser beam involves stimulating a lasing material by electrical discharges or lamps within a closed container. As the lasing material is stimulated, the beam is reflected internally by means of a partial mirror, until it achieves sufficient energy to escape as a stream of monochromatic coherent light. Mirrors or fiber optics are typically used to direct the coherent light to a lens, which focuses the light at the work zone. The laser is then imposed which burns away a portion of material when it cuts through. This is known as the laser kerf and ranges from 0.08mm – 1mm depending on the material type and other conditional factors.If the laser is placed too close or too far the focus would not be correct and hence the cut or engraving would not be proper.The power and speed of a laser cutter can be controlled in percentage. For example in the process of cutting 3 mm vinyl, 60% power and 20% speed can be used. Any material which is natural and not man made can be cut or engraved through a laser cutter. The cut and engrave process can be selected by colours as well.
 
-# Safety and Precautions:- 
+## Safety and Precautions:- 
 
 Since the fabrication process involves laser, the safety and precautions while working on a laser cutter is most important. Some safety precautions are briefed below:-
 

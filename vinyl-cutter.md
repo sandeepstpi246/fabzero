@@ -10,7 +10,7 @@ In addition to the capabilities of the cutter itself, the adhesive vinyl comes i
 
 The blade of the cutter has to be adjusted in such a way that it cuts only the vinyl and not the adhesive sheet below the vinyl.
 
-## Experiment- Vinyl Cutting by Roland GS-24 Vinyl Cutter
+## Task- Vinyl Cutting by Roland GS-24 Vinyl Cutter
 
 Vinyl Cutter was demonstrated to the set of participants. The raw material used in the Vinyl Cutter was a Blue colored Vinyl Sheet. Vinyl Cutter is used by companies working in the field of signage and logo designing. 
 
@@ -61,5 +61,9 @@ I had designed my name on Inkscape and the same was cut on the vinyl sheet throu
 ![Vinyl cutting solid side](img/vinyl-print-1.jpg "Vinyl cutting solid side")
 
 ![Vinyl cutting blank side](img/vinyl-print-2.jpg "Vinyl cutting blank side")
+
+The Vinyl Cutter Installed at FAB LAB Bhubaneswar is Roland GS 24. The picture of the vinyl cutter is shown below.
+
+![Vinyl Cutter Roland- GS-24](img/vinylcutter.jpg)
 
 

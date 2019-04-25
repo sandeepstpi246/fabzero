@@ -1,3 +1,3 @@
-## Ink Jet Printer
+## Poly Jet 3D Printer
 
-This printer is also called Poly jet Printer. It is a 2 axis machine which fabricates in 2 dimensions. 
+It is a 2 axis machine which fabricates in 2 dimensions. 

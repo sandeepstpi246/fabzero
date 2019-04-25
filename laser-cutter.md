@@ -40,7 +40,8 @@ It is a 3-axis equipment and uses substractive method of fabrication. The laser 
 
 Laser Cutter-
 
-![Laser Cutter](img/laser-cutter.jpg "Laser Cutter")
+![Laser Cutter](img/Lasercutter.jpg "Laser Cutter")
+
 
 Laser Cutter Purifier- 
 

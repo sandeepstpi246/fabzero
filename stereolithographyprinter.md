@@ -7,3 +7,7 @@ Stereolithography is an additive manufacturing process that, in its most common 
 The design is made on the computer aided software and is made ready to be printed on the Stereo Lithography Printer. The operation of Stereo Lithography Printer is in 3 dimensions. A base is attached at the bottom which moves in a vertical axis on top of which copper plate is mounted. The print platform lowers itself into the resin glass tank, an ultraviolet laser light, from underneath the see-through tank, shines on it.  Exposed to the laser light, the resin cures, solidifies and sticks to the platform. As more resin is exposed to the laser light, the pattern is created and joins the layer above. As more and more layers are being created, the build platform slowly moves upward, finally pulling the entire object out of the tank as the print process is finished.
 
 Stereolithography is often used for prototyping parts at a relatively low price. Stereolithography can produce accurate prototypes, even of irregular shapes. One can use those prototypes to assess the design of their product or as publicity for the final product.
+
+Stereo Lithography Printer-
+
+![Stereo Lithography Printer](img/stereolithographyprinter.jpeg "Stereo Lithography Printer")

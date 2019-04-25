@@ -31,7 +31,8 @@
 
     - [(ii) Stereo Lithography Printer](stereolithographyprinter.md)
 
-    - [(iii)Ink Jet Printer](inkjetprinter.md)
+    - [(iii)Polyjet 3D Printer](polyjet3dprinter.md)
+    
 
 
 

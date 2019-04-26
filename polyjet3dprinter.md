@@ -17,4 +17,6 @@ The model made by Poly jet printers have smooth finish which makes them  ready f
 
   (iv) Incorporate the widest variety of colors and materials into a single model for unbeatable efficiency.
 
+  Polyjet Printer installed at Fablab Bhubaneswar is of Stratasys make.
+
   ![Polyjet 3D Printer](img/polyjet3dprinter.jpg "Polyjet 3D Printer")

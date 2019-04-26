@@ -7,7 +7,7 @@
 
 
 
-Having a Civil Engineering educational background with passion for tall buildings and structural engineering, Francisco Sanchez took the Fab Academy course in Fablab Barcelona. He is presently setting-up Fab Lab at STPI Bhubaneswar.
+Having a Civil Engineering educational background with passion for tall buildings and structural engineering, Francisco Sanchez took the Fab Academy course in Fablab Barcelona. Francisco has already set-up a beach lab. He is presently setting-up Fab Lab at STPI Bhubaneswar.
 
 ## Sibu Saman
 

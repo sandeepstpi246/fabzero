@@ -7,7 +7,7 @@ It is a 2 axis machine which fabricates in 2 dimensions. A PolyJet 3D printer wo
 The liquids used are photopolymers, which get cured nearly instantly by a UV lamp within the printer, creating a solid, plastic-like model that is precise and accurate. The support material is a gel-like substance, which is easily washed away.
 The model made by Poly jet printers have smooth finish which makes them  ready for sanding, painting, drilling, or tapping.
 
-### Benefits of PolyJet:
+### Benefits of PolyJet 3D      Printer:
 
   (i) Create smooth, detailed prototypes that convey final-product aesthetics.
 

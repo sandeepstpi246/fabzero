@@ -33,6 +33,7 @@
 
     - [(iii)Polyjet 3D Printer](polyjet3dprinter.md)
     
+7. Final Project (FAB LAB) [Final Project](finalproject.md)
 
 
 

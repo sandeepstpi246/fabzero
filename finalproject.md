@@ -1,4 +1,4 @@
-## Final Project
+## Final Project - (Automated Room Lighting System)
 
 ### Aim of the Project
 
@@ -35,13 +35,19 @@ To design, fabricate and prototyping of "AUTOMATED ROOM LIGHTING SYSTEM".
 7. 1 x 3 male Connector- 1nos.
 8. Solid State Relay- 1nos.
 
-### Circuit Diagram:-
+### Procedure:-
+
+The design of the circuit was prepared on Kicad using all the components as mentioned above. First the schematic was prepared followed by PCB design. The pictorial representation of schematic and PCB design are shown in the images below:-  
+
+#### Circuit Diagram:-
 
 ![Circuit Diagram of the Project](img/cktdiapro.jpg "Circuit Diagram of the Project")
 
-### PCB Print in kicad:-
+#### PCB Print in kicad:-
 
 ![PCB Print in KICAD](img/cktdiakicad.jpg "PCB Print in KICAD")
+
+
 
 
 

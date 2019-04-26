@@ -4,7 +4,7 @@
 
 To design, fabricate and prototyping of "AUTOMATED ROOM LIGHTING SYSTEM".
 
-###Objective of the project:-
+### Objective of the project:-
 
 * The objective of this project is to make an Automated Room Lighting System which can automatically turn ON the lights by detecting the presence of human and turn OFF the light when no human presence is detected.
 

@@ -1,5 +1,15 @@
 ## Final Project - (Automated Room Lighting System)
 
+### Project Implementation Group-
+
+![Sandeep Nair](img/sandeep-pic.jpg "Sandeep Nair")
+
+Sandeep Nair- Senior Technical Assistant (STPI Bhopal)
+
+![Suvadip Barua](img/suvadip-pic.jpg "Suvadip Barua")
+
+Suvadip Barua- Senior Technical Assistant- STPI Kolkata
+
 ### Aim of the Project
 
 To design, fabricate and prototyping of "AUTOMATED ROOM LIGHTING SYSTEM".

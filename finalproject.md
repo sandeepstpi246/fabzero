@@ -1,5 +1,15 @@
 ## Final Project - (Automated Room Lighting System)
 
+### Project Guide-
+
+![Francisco Sanchez Arroyo](img/fran.jpg)
+
+Francisco Sanchez Arroyo- Mentor- FABLAB STPI Bhubaneswar
+
+![Sibu Saman](img/sibusaman.jpg)
+
+Sibu Saman- Mentor- FABLAB STPI Bhubaneswar
+
 ### Project Implementation Group-
 
 ![Sandeep Nair](img/sandeep-pic.jpg "Sandeep Nair")

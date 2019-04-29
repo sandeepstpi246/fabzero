@@ -93,7 +93,9 @@ Step by Step procedure of the project is briefed below:-
 
 ![Laser Cutting of Product Name](img/lasercut-label-project-2.jpg)
 
+8. Finally the product was covered in the case designed through 3D Printing and the Final Product was ready. The images of the Final Product is shown below-
 
+![Final Product](img/ product-project.jpg) 
 
 
 

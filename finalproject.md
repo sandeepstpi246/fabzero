@@ -67,6 +67,35 @@ The design of the circuit was prepared on Kicad using all the components as ment
 
 ![PCB Print in KICAD](img/cktdiakicad.jpg "PCB Print in KICAD")
 
+Step by Step procedure of the project is briefed below:-
+
+1. The cuts and traces of the PCB was printed using the procedure as mentioned in Chapter-5 (Sub Head-ii- Desktop Milling Machine) of this repository.
+
+2. After the PCB was printed, all the components as per requirement were soldered to the PCB Design. The pictorial representation of printed PCB and connection is shown below:-
+
+![Prototype](img/prototype.jpeg)
+
+3. Further, it was checked for proper connections and  the programming was designed for the proposed circuit.
+
+4. The programming was loaded into the prototype using a complier and found that the prototype was working. 
+
+5. Further, the case for the prototype was designed using Freecad. The design made through freecad for covering the PCB prototype is shown in the image below:-
+
+![Freecad Design](img/freecad-project.jpg)
+
+6. The design prepared in freecad was printed in the 3D Printer.
+
+![3D Printing of the case for Automated Room Lighting System](img/3dprinting-project.jpeg)
+
+7. The Label i.e. the product name was printed using Vinyl Cutter. The image of the vinyl cut is shown below-
+
+![Laser Cutting of Product Name](img/lasercut-label-project.jpg)
+
+![Laser Cutting of Product Name](img/lasercut-label-project-2.jpg)
+
+
+
+
 
 
 

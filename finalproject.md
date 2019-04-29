@@ -95,7 +95,16 @@ Step by Step procedure of the project is briefed below:-
 
 8. Finally the product was covered in the case designed through 3D Printing and the Final Product was ready. The images of the Final Product is shown below-
 
-![Final Product](img/ product-project.jpg) 
+![Final Product](img/product-project.jpg)
+
+![Final Product](img/product-project-2.jpg)
+
+9. The Final Presentation of the Project was delivered by the implementation team on 05.04.2019 to the Fab Lab participants and our mentors which was received well.
+
+### Result-
+
+The objective of the Project was achieved with desired results.
+
 
 
 
